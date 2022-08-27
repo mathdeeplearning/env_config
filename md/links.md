@@ -2,7 +2,7 @@
 *国外量化平台*
 
 <ul>
-<li ><a href="https://www.quantopian.com/" >Quantopian</a> 研究、回测、算法众包平台</li>
+<li ><a href="https://www.quantopian.com/" >Quantopian</a> ~~研究、回测、算法众包平台~~</li>
 <li ><a href="https://www.quantconnect.com/" >QuantConnect</a> 研究，回测和投资交易</li>
 <li ><a href="https://www.quantstart.com/" >Quantstart</a> 研究，回测和投资交易</li>
 <li ><a href="http://alphasecurecapital.com/" >ASC</a> 研究、交易平台</li>
@@ -48,7 +48,7 @@
 <li ><a href="http://practicalquant.blogspot.com/">The Practical Quant</a></li>
 <li ><a href="http://physicsoffinance.blogspot.com/">The Physics of Finance</a></li>
 <li ><a href="http://implementingquantlib.blogspot.com/">Implementing QuantLib</a></li>
-<li ><a href="http://tradingwithpython.blogspot.com/">Trading with Python</a></li>
+<li ><a href="http://tradingwithpython.blogspot.com/">~~Trading with Python~~</a></li>
 <li ><a href="http://rossiluo.blogspot.com/">Xi (Rossi) LUO</a></li>
 <li ><a href="http://intelligenttradingtech.blogspot.com/">Intelligent Trading</a></li>
 <li ><a href="http://falkenblog.blogspot.com/">Falkenblog</a></li>
