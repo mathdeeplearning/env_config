@@ -2,7 +2,7 @@
 *国外量化平台*
 
 <ul>
-<li ><a href="https://www.quantopian.com/" >Quantopian</a> ~~研究、回测、算法众包平台~~</li>
+<li >~~<a href="https://www.quantopian.com/" >Quantopian</a>研究、回测、算法众包平台~~</li>
 <li ><a href="https://www.quantconnect.com/" >QuantConnect</a> 研究，回测和投资交易</li>
 <li ><a href="https://www.quantstart.com/" >Quantstart</a> 研究，回测和投资交易</li>
 <li ><a href="http://alphasecurecapital.com/" >ASC</a> 研究、交易平台</li>
