@@ -1,0 +1,12 @@
+1、下载 .vimrc 文件 到 ~/.vimrc
+	git clone https://github.com/mathdeeplearning/env_config/blob/main/vim/.vimrc
+
+2、安装插件包	
+	cd ~/.vim/bundle
+	git clone https://github.com/VundleVim/Vundle.vim.git
+
+3、安装字体颜色deus
+	cd ~/.vim/bundle
+	git clone https://github.com/ajmwagar/vim-deus.git
+
+4、更新插件，在vim中输入: PluginInstall
