@@ -18,7 +18,7 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'taglist.vim'
 Plugin 'scrooloose/nerdtree.git'
 Bundle 'jistr/vim-nerdtree-tabs.git'
-"Plugin 'ajmwagar/vim-deus.git'
+Plugin 'ajmwagar/vim-deus.git'
 Plugin 'MarcWeber/vim-addon-mw-utils'
 
 " All of your Plugins must be added before the following line
